@@ -1,0 +1,8 @@
+services:
+  - type: cron
+    name: iptv-scraper
+    repo: https://github.com/sinkalatz/channels
+    schedule: "@daily"  # or "@hourly", "0 0 * * *", etc.
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python your_script.py"
