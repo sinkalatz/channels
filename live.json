@@ -1,81 +1,80 @@
-[
-  {
-    "id": "1",
-    "name": "Azam Sports 1 HD",
-    "category": "Sports",
-    "url": "http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B6:2C:A6&stream=1118131&extension=ts&play_token=0BJn9DNk2W",
-    "thumbnail": "https://raw.githubusercontent.com/sinkalatz/my_tv/refs/heads/main/azam_sports_1_hd.png"
-  },
-  {
-    "id": "2",
-    "name": "Azam Sports 2 HD",
-    "category": "Sports",
-    "url": "http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B5:C8:47&stream=1118130&extension=ts&play_token=BQE9YyjcQr",
-    "thumbnail": "https://raw.githubusercontent.com/sinkalatz/my_tv/refs/heads/main/azam_sports_2_hd.png"
-  },
-  {
-    "id": "3",
-    "name": "Azam Sports 3 HD",
-    "category": "Sports",
-    "url": "line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B5:C8:47&stream=1118129&extension=ts&play_token=awHXBk1f0p",
-    "thumbnail": "https://raw.githubusercontent.com/sinkalatz/my_tv/refs/heads/main/azam_sports_3_hd.png"
-  },
-  {
-    "id": "4",
-    "name": "Azam Sports 4 HD",
-    "category": "Sports",
-    "url": "http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B6:2C:A6&stream=1688063&extension=m3u8&play_token=q8QnQ7L7h6",
-    "thumbnail": "https://raw.githubusercontent.com/sinkalatz/my_tv/refs/heads/main/azam_sports_4_hd.png"
-  },
-  {
-    "id": "5",
-    "name": "Entertainment Plus",
-    "category": "Entertainment",
-    "url": "http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B6:2C:A3&stream=1688063&extension=m3u8&play_token=9saT6tEIR0",
-    "thumbnail": "https://images.unsplash.com/photo-1603739903239-8b6e64c3b185?w=400&h=400&fit=crop"
-  },
-  {
-    "id": "6",
-    "name": "BBC News (Test Stream)",
-    "category": "News",
-    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
-    "thumbnail": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=400&h=400&fit=crop"
-  },
-  {
-    "id": "7",
-    "name": "Big Buck Bunny (Test)",
-    "category": "Movies",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "thumbnail": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&h=400&fit=crop"
-  },
-  {
-    "id": "8",
-    "name": "Apple HLS Test",
-    "category": "Test",
-    "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
-    "thumbnail": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400&h=400&fit=crop"
-  },
-  {
-    "id": "9",
-    "name": "azam 4 (Test)",
-    "category": "Movies",
-    "url": "http://app-plus.live:80/g76ppze6g1/73j1x1si7v/1285333",
-    "thumbnail": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=400&h=400&fit=crop"
-  },
-  {
-    "id": "10",
-    "name": "Trace Mziki",
-    "category": "Music",
-    "url": "http://23232.top:80/play/live.php?mac=00:1A:79:5B:A3:C3&stream=1118074&extension=ts&play_token=qF5XvIyzqE",
-    "thumbnail": "https://raw.githubusercontent.com/sinkalatz/my_tv/refs/heads/main/trace_mziki.webp"
-  }
-  {
-    "id": "11",
-    "name": "TNT Sport 1 HD",
-    "category": "sport",
-    "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-    k1: "ae26845bd33038a9c0774a0981007294",
-    k2: "63ac662dde310cfb4cc6f9b43b34196d"
-    "thumbnail": "https://raw.githubusercontent.com/sinkalatz/my_tv/refs/heads/main/bet_hd.png"
-  }
+[{
+        "id": "1",
+        "name": "Azam Sports 1 HD",
+        "category": "Sports",
+        "url": "http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B6:2C:A6&stream=1118131&extension=ts&play_token=0BJn9DNk2W",
+        "thumbnail": "https://raw.githubusercontent.com/sinkalatz/my_tv/refs/heads/main/azam_sports_1_hd.png"
+    },
+    {
+        "id": "2",
+        "name": "Azam Sports 2 HD",
+        "category": "Sports",
+        "url": "http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B5:C8:47&stream=1118130&extension=ts&play_token=BQE9YyjcQr",
+        "thumbnail": "https://raw.githubusercontent.com/sinkalatz/my_tv/refs/heads/main/azam_sports_2_hd.png"
+    },
+    {
+        "id": "3",
+        "name": "Azam Sports 3 HD",
+        "category": "Sports",
+        "url": "line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B5:C8:47&stream=1118129&extension=ts&play_token=awHXBk1f0p",
+        "thumbnail": "https://raw.githubusercontent.com/sinkalatz/my_tv/refs/heads/main/azam_sports_3_hd.png"
+    },
+    {
+        "id": "4",
+        "name": "Azam Sports 4 HD",
+        "category": "Sports",
+        "url": "http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B6:2C:A6&stream=1688063&extension=m3u8&play_token=q8QnQ7L7h6",
+        "thumbnail": "https://raw.githubusercontent.com/sinkalatz/my_tv/refs/heads/main/azam_sports_4_hd.png"
+    },
+    {
+        "id": "5",
+        "name": "Entertainment Plus",
+        "category": "Entertainment",
+        "url": "http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B6:2C:A3&stream=1688063&extension=m3u8&play_token=9saT6tEIR0",
+        "thumbnail": "https://images.unsplash.com/photo-1603739903239-8b6e64c3b185?w=400&h=400&fit=crop"
+    },
+    {
+        "id": "6",
+        "name": "BBC News (Test Stream)",
+        "category": "News",
+        "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+        "thumbnail": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=400&h=400&fit=crop"
+    },
+    {
+        "id": "7",
+        "name": "Big Buck Bunny (Test)",
+        "category": "Movies",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "thumbnail": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&h=400&fit=crop"
+    },
+    {
+        "id": "8",
+        "name": "Apple HLS Test",
+        "category": "Test",
+        "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+        "thumbnail": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400&h=400&fit=crop"
+    },
+    {
+        "id": "9",
+        "name": "azam 4 (Test)",
+        "category": "Movies",
+        "url": "http://app-plus.live:80/g76ppze6g1/73j1x1si7v/1285333",
+        "thumbnail": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=400&h=400&fit=crop"
+    },
+    {
+        "id": "10",
+        "name": "Trace Mziki",
+        "category": "Music",
+        "url": "http://23232.top:80/play/live.php?mac=00:1A:79:5B:A3:C3&stream=1118074&extension=ts&play_token=qF5XvIyzqE",
+        "thumbnail": "https://raw.githubusercontent.com/sinkalatz/my_tv/refs/heads/main/trace_mziki.webp"
+    },
+    {
+        "id": "11",
+        "name": "TNT Sport 1 HD",
+        "category": "sport",
+        "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+        "k1": "ae26845bd33038a9c0774a0981007294",
+        "k2": "63ac662dde310cfb4cc6f9b43b34196d",
+        "thumbnail": "https://raw.githubusercontent.com/sinkalatz/my_tv/refs/heads/main/bet_hd.png"
+    }
 ]
