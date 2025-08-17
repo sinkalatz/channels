@@ -65,7 +65,14 @@
         "id": "10",
         "name": "Trace Mziki",
         "category": "Music",
-        "url": "http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B6:2C:A6&stream=1118074&extension=ts&play_token=63DM4eD8tp",
+        "url": "http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B5:C8:47&stream=1118074&extension=ts&play_token=tbIv1Tze2r",
+        "thumbnail": "https://raw.githubusercontent.com/sinkalatz/my_tv/refs/heads/main/trace_mziki.webp"
+    },
+    {
+        "id": "10",
+        "name": "Trace Mziki",
+        "category": "Music",
+        "url": "http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B5:C8:47&stream=1118074&extension=m3u8&play_token=tbIv1Tze2r",
         "thumbnail": "https://raw.githubusercontent.com/sinkalatz/my_tv/refs/heads/main/trace_mziki.webp"
     },
     {
