@@ -1,0 +1,46 @@
+import type { Channel } from "@/types/channel";
+
+export const channels: Channel[] = [
+  {
+    id: "1",
+    name: "Sports Channel HD",
+    category: "Sports",
+    url: "http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B6:2C:A6&stream=1688063&extension=m3u8&play_token=q8QnQ7L7h6",
+    thumbnail: "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=400&h=400&fit=crop",
+  },
+  {
+    id: "2",
+    name: "Entertainment Plus",
+    category: "Entertainment",
+    url: "http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B6:2C:A3&stream=1688063&extension=m3u8&play_token=9saT6tEIR0",
+    thumbnail: "https://images.unsplash.com/photo-1603739903239-8b6e64c3b185?w=400&h=400&fit=crop",
+  },
+  {
+    id: "3",
+    name: "BBC News (Test Stream)",
+    category: "News",
+    url: "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+    thumbnail: "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=400&h=400&fit=crop",
+  },
+  {
+    id: "4",
+    name: "Big Buck Bunny (Test)",
+    category: "Movies",
+    url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    thumbnail: "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&h=400&fit=crop",
+  },
+  {
+    id: "5",
+    name: "Apple HLS Test",
+    category: "Test",
+    url: "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+    thumbnail: "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400&h=400&fit=crop",
+  },
+  {
+    id: "6",
+    name: "Sintel (Test)",
+    category: "Movies",
+    url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    thumbnail: "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=400&h=400&fit=crop",
+  },
+];
