@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:00:3C:C4&stream=2090177&extension=ts&play_token=hD4kOMh5ux
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+http://trxx.in:80/play/live.php?mac=00:1A:79:2D:8F:2E&stream=2090177&extension=ts&play_token=MOMyMb6ZqR
