@@ -1,5 +1,10 @@
 #EXTM3U
-#EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=1920x1080 
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:00:3C:C4&stream=2090177&extension=m3u8&play_token=hD4kOMh5ux
+#EXTINF:-1 tvg-name="Azam Sports 2" group-title="Sports" resolution="1920x1080" bandwidth="8000000",Azam Sports 2 [8.0 Mbps - 1080p]
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:00:3C:C4&stream=2090177&extension=ts&play_token=hD4kOMh5ux
+
+#EXTINF:-1 tvg-name="Azam Sports 2" group-title="Sports" resolution="1920x1080" bandwidth="7500000",Azam Sports 2 [7.5 Mbps - 1080p]
+http://trxx.in:80/play/live.php?mac=00:1A:79:2D:8F:2E&stream=2090177&extension=ts&play_token=MOMyMb6ZqR
+
+#EXTINF:-1 tvg-name="Azam Sports 2" group-title="Sports" resolution="1920x1080" bandwidth="7500000",Azam Sports 2 [7.5 Mbps - 1080p]
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F5:9D:67&stream=2025275&extension=ts&play_token=2OzXqL1RCM
