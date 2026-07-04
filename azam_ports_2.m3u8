@@ -1,28 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="Azam Sports 2" tvg-name="Azam Sports 2" group-title="Sports",Azam Sports 2 (Server 1)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:00:3C:C4&stream=2090177&extension=ts&play_token=hD4kOMh5ux
-
-#EXTINF:-1 tvg-id="Azam Sports 2" tvg-name="Azam Sports 2" group-title="Sports",Azam Sports 2 (Server 2)
-http://trxx.in:80/play/live.php?mac=00:1A:79:2D:8F:2E&stream=2090177&extension=ts&play_token=MOMyMb6ZqR
-
-#EXTINF:-1 tvg-id="Azam Sports 2" tvg-name="Azam Sports 2" group-title="Sports",Azam Sports 2 (Server 3)
+#EXTINF:-1,Azam Sports 2
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F5:9D:67&stream=2025275&extension=ts&play_token=2OzXqL1RCM
-
-#EXTINF:-1 tvg-id="Azam Sports 2" tvg-name="Azam Sports 2" group-title="Sports",Azam Sports 2 (Server 4)
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:F5:9D:67&stream=2025275&extension=ts&play_token=nW2XBeC5bf
-
-#EXTINF:-1 tvg-id="Azam Sports 2" tvg-name="Azam Sports 2" group-title="Sports",Azam Sports 2 (Server 5)
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=2025275&extension=ts&play_token=OFhETkDBPW
-
-#EXTINF:-1 tvg-id="Azam Sports 2" tvg-name="Azam Sports 2" group-title="Sports",Azam Sports 2 (Server 6)
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B6:C7:D8&stream=2090177&extension=ts&play_token=JsTJL2FrDV
-
-#EXTINF:-1 tvg-id="Azam Sports 2" tvg-name="Azam Sports 2" group-title="Sports",Azam Sports 2 (Server 7)
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:9C:9F:80&stream=2090177&extension=ts&play_token=eW177SJHlm
-
-#EXTINF:-1 tvg-id="Azam Sports 2" tvg-name="Azam Sports 2" group-title="Sports",Azam Sports 2 (Server 8)
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B5:9F:7F&stream=2090177&extension=ts&play_token=z8LCPuYcVE
-
-#EXTINF:-1 tvg-id="Azam Sports 2" tvg-name="Azam Sports 2" group-title="Sports",Azam Sports 2 (Server 9)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:B1:00:A5&stream=2090177&extension=ts&play_token=As04lNeNuq
